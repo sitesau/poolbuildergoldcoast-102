@@ -1,0 +1,22 @@
+{
+  "wheel_id": 820,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-102",
+  "project": "concrete-pool-builder-gold-coast-common-mistakes-ac83e0dcafe7a9",
+  "parent_t1_ref": "poolbuildergoldcoast-150",
+  "node_role": "feeder",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast common mistakes",
+  "intended_url": "https://sites-e470-2.web.app/concrete-pool-builder-gold-coast-common-mistakes-ac83e0dcafe7a9/",
+  "tier": "T2",
+  "writeback_nonce": "7e81fbe5a79a4ac7",
+  "links": [
+    {
+      "target_url": "http://concrete-pool-builder-gold-coast-500d5aaa077eabe553c842ee66a089.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "concrete pool builder gold coast",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
